@@ -8,5 +8,6 @@ public partial class my_row
 {
     class functions
     {
+    Console.WriteLine("hguyguyuyuy");
     }
 }
